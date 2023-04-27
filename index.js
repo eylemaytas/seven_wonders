@@ -13,6 +13,8 @@ fetch("http://localhost:3000/sevenWonders")
     wonders.forEach((wonder) => {
       appendWonderDetails(wonders[0]);
       displayWonderNames(wonder);
+      console.log(wonder.likes);
+      likesBox.textContent = wonder.likes;
     });
   });
 
@@ -42,10 +44,14 @@ function addReview() {
   const reviewLi = document.createElement("p");
   reviewLi.textContent = review.value;
   reviewList.appendChild(reviewLi);
+  review.value = "";
 }
 
 function addLikes() {
   likesBox.textContent = numOfLikes++ + " likes";
+  if (numOfLikes === 6) {
+    alert("This wonder has reached 5 likes!");
+  }
 }
 
 likesButton.addEventListener("click", addLikes);

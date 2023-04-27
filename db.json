@@ -4,8 +4,9 @@
         "id": 1,
         "name": "Great Wall of China",
         "image": "https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638892506/EducationHub/photos/the-great-wall-of-china.jpg",
-        "description": "Spanning over 13,000 miles across Northern China, the Great Wall of China began its lengthy construction in the 7th century BC. Over several dynasties, the wall reached its final form in 1644 under the Ming dynasty. In addition to protection from nomadic nations in the North, the wall also bolstered trade and military transportation. Of course, there are many cities in which visitors can gain access from the wall. The most visited part of the wall is in Mutianyu, just outside of Beijing. Travelers looking for a unique experience, though, can head to Shanhaiguan, where the wall dramatically ends in the Bohai Sea, or Jiankou, where the wall inexplicably traverses steep mountainous terrain."
-    },
+        "description": "Spanning over 13,000 miles across Northern China, the Great Wall of China began its lengthy construction in the 7th century BC. Over several dynasties, the wall reached its final form in 1644 under the Ming dynasty. In addition to protection from nomadic nations in the North, the wall also bolstered trade and military transportation. Of course, there are many cities in which visitors can gain access from the wall. The most visited part of the wall is in Mutianyu, just outside of Beijing. Travelers looking for a unique experience, though, can head to Shanhaiguan, where the wall dramatically ends in the Bohai Sea, or Jiankou, where the wall inexplicably traverses steep mountainous terrain.",
+        "likes": 5
+      },
       {
         "id": 2,
         "name": "Chichén Itzá",
