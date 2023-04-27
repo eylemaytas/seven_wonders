@@ -8,6 +8,7 @@ Core Features:
 -Functionality to leave comments and read other peoples comments.
 
 -Like function to indicate that you've been one of the locations and enjoyed your time there.
+
 ---
 ## Setup
 Run json-server from this directory.
