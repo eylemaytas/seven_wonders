@@ -1,52 +1,63 @@
 {
-    "sevenWonders": [
+  "sevenWonders": [
     {
-        "id": 1,
-        "name": "Great Wall of China",
-        "image": "https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638892506/EducationHub/photos/the-great-wall-of-china.jpg",
-        "description": "Spanning over 13,000 miles across Northern China, the Great Wall of China began its lengthy construction in the 7th century BC. Over several dynasties, the wall reached its final form in 1644 under the Ming dynasty. In addition to protection from nomadic nations in the North, the wall also bolstered trade and military transportation. Of course, there are many cities in which visitors can gain access from the wall. The most visited part of the wall is in Mutianyu, just outside of Beijing. Travelers looking for a unique experience, though, can head to Shanhaiguan, where the wall dramatically ends in the Bohai Sea, or Jiankou, where the wall inexplicably traverses steep mountainous terrain."
+      "id": 1,
+      "name": "Great Wall of China",
+      "image": "https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638892506/EducationHub/photos/the-great-wall-of-china.jpg",
+      "description": "Spanning over 13,000 miles across Northern China, the Great Wall of China began its lengthy construction in the 7th century BC. Over several dynasties, the wall reached its final form in 1644 under the Ming dynasty. In addition to protection from nomadic nations in the North, the wall also bolstered trade and military transportation. Of course, there are many cities in which visitors can gain access from the wall. The most visited part of the wall is in Mutianyu, just outside of Beijing. Travelers looking for a unique experience, though, can head to Shanhaiguan, where the wall dramatically ends in the Bohai Sea, or Jiankou, where the wall inexplicably traverses steep mountainous terrain.",
+      "comments": ["1", "2"]
     },
-      {
-        "id": 2,
-        "name": "Chichén Itzá",
-        "image": "https://www.chichenitza.com/public/assets/img/ruins/chichen-itza-pyramid.jpg",
-        "description": "The Mayan people are well regarded as one of the most scientifically-advanced groups of the ancient world. Even modern scientists cannot wrap their heads around the technological marvels created by these indigenous people. Located in Yucatan, Mexico, Chichen Itza is one such marvel. Once one of the largest Mayan cities, Chichen Itza hosted a series of pyramids and temples used to track celestial events. The astronomical and mathematical knowledge that went into Mayan constructions continues to be studied today. The Temple of Kukulcan stands as the epicenter of this legendary archaeological site.",
-        "likes": 0
-      },
-      {
-        "id": 3,
-        "name": "Petra",
-        "image": "https://cdn.britannica.com/24/153524-050-BA9D084B/Al-Dayr-Petra-Jordan.jpg",
-        "description": "Originally known to its inhabitants as Raqmu, Petra is a historic city in Southern Jordan dating back to the fourth century BC. This once-great metropolis continues to marvel at due to its rock-cut architecture and technologically-advanced irrigation system. Because of the city’s unsuitable location amongst desert and mountains, it is only due to this irrigation system that the “Rose City” was able to thrive. ",
-        "likes": 0
-      },
-      {
-        "id": 4,
-        "name": "Machu Picchu",
-        "image": "https://www.intrepidtravel.com/adventures/wp-content/uploads/2018/06/1.-Intrepid-Travel-peru_machupicchu.jpg",
-        "description": "Constructed in the 15th century, Machu Picchu was an Inca citadel located in Peru’s Andes mountain region. This remarkable site has gained mass appeal due to its inconceivable construction atop steep mountain ridges. These sacred grounds stretch a distance of five miles at an elevation of nearly 8,000 feet. They were abandoned 100 years after their construction, around the time of the Spanish conquest. Mountain-bound visitors can trek the grounds of what was once either a royal estate or religious grounds for Incan leaders. With over 3,000 stone steps that link its multiple levels of platforms, Machu Picchu offers visitors some of the most incredible sites in the Southern hemisphere.",
-        "likes": 0
-      },
-      {
-        "id": 5,
-        "name": "Christ the Redeemer",
-        "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/df/76/ed.jpg",
-        "description": "On the other side of South America is Rio de Janeiro’s Christ the Redeemer. This massive sculpture built by Paul Landowski, Heitor da Silva Costa, and Albert Caquot between 1922 and 1931 stands 98 feet high and weighs 635 metric tons. Standing tall atop Corcovado mountain in the Tijuca National Park, Christ the Redeemer overlooks the entire city of Rio. Due to its massive size and optimal location, this epic sculpture can be enjoyed from both above and below.",
-        "likes": 0
-      },
-      {
-        "id": 6,
-        "name": "Colosseum",
-        "image": "https://cdn.mos.cms.futurecdn.net/BiNbcY5fXy9Lra47jqHKGK.jpg",
-        "description": "Located in Italy’s capital city, the Colosseum stands as not just the largest ancient amphitheater ever built but also the epicenter of the epic Roman Empire. Construction began under the emperor Vespasian in 72 AD and was completed eight years later under his heir, Titus. Once holding as many as 80,000 spectators, this marvel of engineering hosted gladiatorial battles, executions, and dramas. For first-time visitors, it is highly recommended to book a special access tour, which grants access to many restricted areas. Only on such tours can tourists walk through the “Gate of Death” onto the arena floor, just as so many did during Roman times. Colosseum-bound travelers should also remember that Italy is a part of the Schengen Area and will implement ETIAS as early as 2024. This means that many non-EU citizens, including U.S. citizens, will no longer be able to Italy and most other European countries visa-free.",
-        "likes": 0
-      },
-      {
-        "id": 7,
-        "name": "Taj Mahal",
-        "image": "https://th-thumbnailer.cdn-si-edu.com/CbddkFFO3OB80rRz83Iiuf-Z0FY=/1000x750/filters:no_upscale():focal(1471x1061:1472x1062)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/b6/30/b630b48b-7344-4661-9264-186b70531bdc/istock-478831658.jpg",
-        "description": "The Taj Mahal, which roughly translates to 'The Crown of the Palace,' is located in the Indian city of Agra. Mughal emperor Shah Jahan commissioned the palace to house the tombs of him and his wife, Mumtaz Mahal. This mausoleum, constructed of ivory-white marble, was completed in 1643 and cost an estimated $1 billion. Today, visitors can tour the more than 42-acre complex. ",
-        "likes": 0
-      }
-    ]
-  }
+    {
+      "id": 2,
+      "name": "Chichén Itzá",
+      "image": "https://www.chichenitza.com/public/assets/img/ruins/chichen-itza-pyramid.jpg",
+      "description": "The Mayan people are well regarded as one of the most scientifically-advanced groups of the ancient world. Even modern scientists cannot wrap their heads around the technological marvels created by these indigenous people. Located in Yucatan, Mexico, Chichen Itza is one such marvel. Once one of the largest Mayan cities, Chichen Itza hosted a series of pyramids and temples used to track celestial events. The astronomical and mathematical knowledge that went into Mayan constructions continues to be studied today. The Temple of Kukulcan stands as the epicenter of this legendary archaeological site.",
+      "likes": 0,
+      "comments": ["1", "2"]
+    },
+    {
+      "id": 3,
+      "name": "Petra",
+      "image": "https://cdn.britannica.com/24/153524-050-BA9D084B/Al-Dayr-Petra-Jordan.jpg",
+      "description": "Originally known to its inhabitants as Raqmu, Petra is a historic city in Southern Jordan dating back to the fourth century BC. This once-great metropolis continues to marvel at due to its rock-cut architecture and technologically-advanced irrigation system. Because of the city’s unsuitable location amongst desert and mountains, it is only due to this irrigation system that the “Rose City” was able to thrive. ",
+      "likes": 0,
+      "comments": ["1", "2"]
+    },
+    {
+      "id": 4,
+      "name": "Machu Picchu",
+      "image": "https://www.intrepidtravel.com/adventures/wp-content/uploads/2018/06/1.-Intrepid-Travel-peru_machupicchu.jpg",
+      "description": "Constructed in the 15th century, Machu Picchu was an Inca citadel located in Peru’s Andes mountain region. This remarkable site has gained mass appeal due to its inconceivable construction atop steep mountain ridges. These sacred grounds stretch a distance of five miles at an elevation of nearly 8,000 feet. They were abandoned 100 years after their construction, around the time of the Spanish conquest. Mountain-bound visitors can trek the grounds of what was once either a royal estate or religious grounds for Incan leaders. With over 3,000 stone steps that link its multiple levels of platforms, Machu Picchu offers visitors some of the most incredible sites in the Southern hemisphere.",
+      "likes": 0,
+      "comments": ["1", "2"]
+    },
+    {
+      "id": 5,
+      "name": "Christ the Redeemer",
+      "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/df/76/ed.jpg",
+      "description": "On the other side of South America is Rio de Janeiro’s Christ the Redeemer. This massive sculpture built by Paul Landowski, Heitor da Silva Costa, and Albert Caquot between 1922 and 1931 stands 98 feet high and weighs 635 metric tons. Standing tall atop Corcovado mountain in the Tijuca National Park, Christ the Redeemer overlooks the entire city of Rio. Due to its massive size and optimal location, this epic sculpture can be enjoyed from both above and below.",
+      "likes": 0,
+      "comments": ["1", "2"]
+    },
+    {
+      "id": 6,
+      "name": "Colosseum",
+      "image": "https://cdn.mos.cms.futurecdn.net/BiNbcY5fXy9Lra47jqHKGK.jpg",
+      "description": "Located in Italy’s capital city, the Colosseum stands as not just the largest ancient amphitheater ever built but also the epicenter of the epic Roman Empire. Construction began under the emperor Vespasian in 72 AD and was completed eight years later under his heir, Titus. Once holding as many as 80,000 spectators, this marvel of engineering hosted gladiatorial battles, executions, and dramas. For first-time visitors, it is highly recommended to book a special access tour, which grants access to many restricted areas. Only on such tours can tourists walk through the “Gate of Death” onto the arena floor, just as so many did during Roman times. Colosseum-bound travelers should also remember that Italy is a part of the Schengen Area and will implement ETIAS as early as 2024. This means that many non-EU citizens, including U.S. citizens, will no longer be able to Italy and most other European countries visa-free.",
+      "likes": 0,
+      "comments": ["1", "2"]
+    },
+    {
+      "id": 7,
+      "name": "Taj Mahal",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/CbddkFFO3OB80rRz83Iiuf-Z0FY=/1000x750/filters:no_upscale():focal(1471x1061:1472x1062)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/b6/30/b630b48b-7344-4661-9264-186b70531bdc/istock-478831658.jpg",
+      "description": "The Taj Mahal, which roughly translates to 'The Crown of the Palace,' is located in the Indian city of Agra. Mughal emperor Shah Jahan commissioned the palace to house the tombs of him and his wife, Mumtaz Mahal. This mausoleum, constructed of ivory-white marble, was completed in 1643 and cost an estimated $1 billion. Today, visitors can tour the more than 42-acre complex. ",
+      "likes": 0,
+      "comments": [
+        "nice",
+        "cool",
+        "sick"
+      ]
+    }
+  ]
+}
